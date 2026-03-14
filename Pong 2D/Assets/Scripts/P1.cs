@@ -4,7 +4,7 @@ using UnityEngine.InputSystem;
 public class P1 : MonoBehaviour
 {
     public float moveSpeed = 5f;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    // Start is called once before the first execution of Update
     void Start()
     {
         
